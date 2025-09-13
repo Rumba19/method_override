@@ -95,18 +95,4 @@ The program will demonstrate:
 3. **Polymorphism** allows treating different objects uniformly
 4. **Encapsulation** protects data integrity through access modifiers
 
-## Customization Ideas
 
-- Add more vehicle types (Truck, Motorcycle, Bus)
-- Implement additional methods (start(), stop(), honk())
-- Add interfaces for common behaviors (Chargeable, Refuelable)
-- Include more detailed vehicle specifications
-- Add exception handling for invalid operations
-
-## Author
-
-Created as an educational demonstration of Java OOP concepts.
-
-## Version
-
-1.0 - Initial implementation with basic inheritance and method overriding
