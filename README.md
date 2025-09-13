@@ -42,11 +42,11 @@ Vehicle (Base Class)
 
 ## Programming Concepts Demonstrated
 
-- ✅ **Inheritance**: All classes extend from Vehicle
-- ✅ **Method Overriding**: Each subclass overrides forward() and reverse()
-- ✅ **Polymorphism**: Vehicle array can hold different subclass objects
-- ✅ **Encapsulation**: Protected and private field access
-- ✅ **Constructor Chaining**: super() calls to parent constructor
+- **Inheritance**: All classes extend from Vehicle
+- **Method Overriding**: Each subclass overrides forward() and reverse()
+- **Polymorphism**: Vehicle array can hold different subclass objects
+- **Encapsulation**: Protected and private field access
+- **Constructor Chaining**: super() calls to parent constructor
 
 ## File Structure
 
